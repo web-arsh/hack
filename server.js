@@ -8,7 +8,7 @@ const app = express();
 const port = 3000;
 
 const corsOptions = {
-    origin: "http://localhost:3001",
+    origin: "https://stately-gnome-24e7ac.netlify.app/",
     methods: ["GET","POST"],
     allowedHeaders: ['Content-Type']
 }
