@@ -8,7 +8,7 @@ const app = express();
 const port = 3000;
 
 const corsOptions = {
-    origin: "https://kaleidoscopic-souffle-cfc0b7.netlify.app",
+    origin: "https://luminous-gnome-577ea2.netlify.app",
     methods: ["GET","POST"],
     allowedHeaders: ['Content-Type']
 }
